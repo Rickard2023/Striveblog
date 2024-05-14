@@ -1,0 +1,18 @@
+tbody {   
+    color: wheat;
+    font-size: large;
+}
+
+.tablebg {
+    background-color: rgb(18, 77, 50);
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+}
+
+.list {
+    color: orange;
+    background-color: rgb(17, 16, 16);
+    font-size: large;
+}

@@ -1,0 +1,31 @@
+.post-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    border: 2px solid black;
+    font-size:larger;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(128, 83, 24)
+}
+
+.row-css {
+    background-color: bisque;
+    border: 2px solid black;
+    font-size:larger;
+    font-weight: 900;
+    color:rgb(128, 83, 24)
+}
+
+.col-color {
+    background-color: rgba(127, 234, 255, 0.464);
+    border: 2px solid black;
+}
+
+.col-text {
+    font-size:larger;
+    color: rgb(9, 63, 92);
+    font-size:medium;
+    font-weight: 600;
+}
